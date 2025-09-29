@@ -8,7 +8,7 @@ This project applies machine learning techniques to predict automobile prices us
 
 
 - `data/`                  - [Kaggle dataset](https://www.kaggle.com/datasets/sumaya23abdul/automobile-database)
-- `notebooks/`             - Jupyter notebooks
+- `notebooks/`             - Jupyter notebooks with full ML workflow
 - `requirements.txt`       - Python dependencies
 - `README.md`              - Project overview and documentation
 - `LICENSE`                - MIT License for code
