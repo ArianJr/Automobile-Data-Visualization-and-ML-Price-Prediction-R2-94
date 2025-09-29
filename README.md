@@ -1,5 +1,3 @@
-# Automobile-Data-Visualization-and-ML-Price-Prediction-R2-94
-
 # 🚗 Automobile Price Prediction with XGBoost
 
 This project applies machine learning techniques to predict automobile prices using a dataset sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/sumaya23abdul/automobile-database)). After thorough preprocessing and feature engineering, an XGBoost regression model was trained and achieved an **R² score of 0.94**, indicating strong predictive performance.
