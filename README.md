@@ -13,18 +13,7 @@ This project applies machine learning techniques to predict automobile prices us
 ├── LICENSE                # MIT License for code
 └── requirements.txt       # Python dependencies
 ```
----
-```text
-data/
-└── Kaggle_dataset/
 
-notebooks/
-└── Jupyter notebooks/
-
-README.md               # Project overview and documentation  
-LICENSE                 # MIT License for code  
-requirements.txt        # Python dependencies
-```
 ---
 
 
