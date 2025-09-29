@@ -56,8 +56,8 @@ This project applies machine learning techniques to predict automobile prices us
 To run this project locally:
 
 ```bash
-git clone https://github.com/ArianJr/Automobile-Data-Visualization-and-ML-Price-Prediction-R2-94.git
-cd Automobile-Data-Visualization-and-ML-Price-Prediction-R2-94
+git clone https://github.com/ArianJr/AutoPrice-Prediction-XGBoost-R2-94
+cd AutoPrice-Prediction-XGBoost-R2-94
 pip install -r requirements.txt
 ```
 
