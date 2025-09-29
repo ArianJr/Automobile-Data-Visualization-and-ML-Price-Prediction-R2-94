@@ -22,7 +22,7 @@ This project applies machine learning techniques to predict automobile prices us
 - **Features**: Technical specifications, categorical attributes, and price
 - **Target**: `price` (continuous variable)
 
-> ⚠️ *Note: The dataset is not redistributed in this repository. Please download it directly from Kaggle and place it in the `data/` folder.*
+> ⚠️ *Note: The dataset is not redistributed in this repository. Please download it directly from Kaggle and place it in the `data/`.*
 
 ---
 
